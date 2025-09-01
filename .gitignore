@@ -1,0 +1,20 @@
+# Virtuelle Umgebungen
+.venv/
+venv/
+
+# IDE Dateien
+.idea/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac / Windows System Files
+.DS_Store
+
+# Daten (falls du keine Rohdaten teilen willst)
+data/*.csv
+
+# Modelle (nur hochladen wenn klein genug)
+# models/*.pkl
